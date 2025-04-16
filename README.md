@@ -27,5 +27,5 @@ You can explore 4 separate dashboards within this link:
 
 ### Dashboard Preview
 
-![Sample of Individual Results](images/sample_results_dash.png)
-![Sample of Athlete Progress](images/sample_progress_dash.png)
+![Sample of Individual Results](Images/sample_results_dash.png)
+![Sample of Athlete Progress](Images/sample_progress_dash.png)

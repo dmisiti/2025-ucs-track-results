@@ -16,10 +16,12 @@ The spreadsheet was saved as a CSV and connected to Tableau, in which the data w
 You can explore 4 separate dashboards within this link:
 1. Individual Results for Track Events
 2. Individual Results for Field Events
-     (Each of these dashboards shows specific results that can be sorted by date, grade, gender, and event.)
 3. Athlete Progress for Track Events
 4. Athlete Progress for Field Events
-    (Each of these dashboards shows results by particular athlete, with the option to choose athlete name, and athlete event, in order to display their progress from week to week.)
+
+Each of the Individual Results dashboards shows specific results that can be sorted by date, grade, gender, and event.
+
+Each of the Athlete Progress dashboards shows results by particular athlete, with the option to choose athlete name, and athlete event, in order to display their progress from week to week.
 
 ### Tools Used
 - Google Sheets - for weekly data entry and storage
